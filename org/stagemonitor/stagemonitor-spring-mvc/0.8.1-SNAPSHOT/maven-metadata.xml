@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.stagemonitor</groupId>
+  <artifactId>stagemonitor-spring-mvc</artifactId>
+  <version>0.8.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20141028.152329</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20141028152329</lastUpdated>
+  </versioning>
+</metadata>

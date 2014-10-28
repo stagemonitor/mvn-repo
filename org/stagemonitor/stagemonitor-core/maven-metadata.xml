@@ -2,11 +2,11 @@
 <metadata>
   <groupId>org.stagemonitor</groupId>
   <artifactId>stagemonitor-core</artifactId>
-  <version>0.9.0</version>
+  <version>0.8.1-SNAPSHOT</version>
   <versioning>
     <versions>
-      <version>0.9.0</version>
+      <version>0.8.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20141022090303</lastUpdated>
+    <lastUpdated>20141028152324</lastUpdated>
   </versioning>
 </metadata>
